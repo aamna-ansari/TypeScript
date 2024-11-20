@@ -21,6 +21,7 @@
 
 [Day 1 >>](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)
 
+<div align="center">
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
@@ -28,5 +29,6 @@
 | 02    |                     [Getting Started React](./02_Day_Introduction_to_React/02_introduction_to_react.md)                     |
 | 03    |                                     [Setting Up](./03_Day_Setting_Up/03_setting_up.md)                                      |
 
+</div>
 
 [Day 1 >>](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)
