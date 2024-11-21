@@ -91,3 +91,9 @@ console.log(Direction2['Left'])
 ### Heterogeneous enums
 Enums can have a mix of string and numeric values, but this is generally not recommended due to lack of clarity.
 
+```ts
+enum Mixed {
+    No = 0,
+    Yes = "YES"
+  }
+```
