@@ -23,7 +23,7 @@ Visual Studio Code provide IntelliSense and other features like autocompletion, 
 
 # How to Get Started with TypeScript
 ## Installation
--  Install TypeScript globally using npm
+-  **Install TypeScript globally using npm**
     ```cd
     npm install -g typescript
     ```
@@ -33,28 +33,33 @@ Visual Studio Code provide IntelliSense and other features like autocompletion, 
         ```
     ![](../../images/cdInstall.gif)
 
-- Create a TypeScript File
+- **Create a TypeScript File**
 
    Create a `.ts` file, e.g., `index.ts.`
 
   ![](../../images/index.ts.gif)
 
-- Compile the TypeScript File:
+- **Compile the TypeScript File:**
 Compile the TypeScript file into JavaScript using the TypeScript compiler (tsc):
     ```cd
     tsc index.ts
     ```
 
-- Run the JavaScript File:
+- **Run the JavaScript File:**
 
-After compilation, a `.js` file will be created, which you can run with *Node.js* or in a browser.
+    After compilation, a `.js` file will be created, which you can run with *Node.js* or in a browser.
 
-```cd
-node index.js
- ```
----
+    ```cd
+    node index.js
+    ```
+    ![](../../images/run.gif)
 
- ![](../../images/run.gif)
+ - **For Error:** 
+    ```cd
+    tsc -init
+    ```
+    ![](../../images/error.gif)
+
 
 
 
