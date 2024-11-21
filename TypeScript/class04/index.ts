@@ -38,4 +38,4 @@ const collection:[string ,number , boolean] = ['AaMna', 24, true]
 // But what happens if i try to set them in the wrong order
 
 
-const collection1:[string ,number , boolean] = ['AaMna', true, 24] //Throw Error
+// const collection1:[string ,number , boolean] = ['AaMna', true, 24] //Throw Error
