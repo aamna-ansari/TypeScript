@@ -26,7 +26,7 @@
 | 01    |                      [Overview of TypeScript](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)                       |
 | 02    |                     [TypeScript vs. JavaScript](./02_Day_Introduction_to_React/02_introduction_to_react.md)                     |
 | 03    |                                     [Basic syntax, variables, and type annotations]()                                      |
-| 04    |                                     [Arrays, tuples, and enums](./TypeScript/class04/READM4.md)                                      |
+| 04    |                                     [Arrays, tuples, and enums](./TypeScript/class04/READ04.md)                                      |
 
 
 [Day 1 >>](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)
