@@ -90,3 +90,14 @@ enum Direction2 {
   }
   console.log(Direction2.Down)
   console.log(Direction2['Left'])
+
+
+//   Heterogeneous enums
+
+enum Mixed {
+    No = 0,
+    Yes = "YES"
+  }
+
+  console.log(Mixed.No)
+
