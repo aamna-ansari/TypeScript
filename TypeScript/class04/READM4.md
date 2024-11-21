@@ -35,7 +35,6 @@ let ourTuple: [number, boolean] = [5, false];
 But what happens if i try to set them in the wrong order
 
 ```ts
-// define tuple (Fixed Positions and Types)
 let ourTuple: [number, boolean] = [false, 2]; 
 
 ❌Error: Type 'number' is not assignable to type 'boolean'
