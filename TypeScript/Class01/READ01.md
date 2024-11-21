@@ -39,5 +39,23 @@ Visual Studio Code provide IntelliSense and other features like autocompletion, 
 
   ![](../../images/index.ts.gif)
 
-  
+- Compile the TypeScript File:
+Compile the TypeScript file into JavaScript using the TypeScript compiler (tsc):
+    ```cd
+    tsc idex.ts
+    ```
+
+- Run the JavaScript File:
+
+After compilation, a `.js` file will be created, which you can run with *Node.js* or in a browser.
+
+```cd
+node index.js
+ ```
+
+ ![](../../images/run.gif)
+
+
+
+
 
