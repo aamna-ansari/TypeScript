@@ -1,5 +1,5 @@
 # **Arrays | Tuples | Enums**
-
+[<< Day 3](../Class03/READ03.md) | [Day 05 >>](../Class05/READ05.md)
 ## TypeScript Arrays
 
 TypeScript has a specific syntax for typing arrays.
