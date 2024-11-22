@@ -18,15 +18,15 @@
 
 </div>
 
-[Day 1 >>](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)
+[Day 1 >>](./TypeScript/Class01/READ01.md)
 
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                      [Overview of TypeScript](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)                       |
-| 02    |                     [TypeScript vs. JavaScript](./02_Day_Introduction_to_React/02_introduction_to_react.md)                     |
-| 03    |                                     [Basic syntax, variables, and type annotations]()                                      |
-| 04    |                                     [Arrays, tuples, and enums](./TypeScript/class04/READ04.md)                                      |
+| 01    |                        [Overview of TypeScript](./TypeScript/Class01/READ01.md)                                             |
+| 02    |                        [TypeScript vs. JavaScript](./TypeScript/Class02/READ02.md)                                          |
+| 03    |                        [Basic syntax, variables, and type annotations](./TypeScript/Class03/)                               |
+| 04    |                        [Arrays, tuples, and enums](./TypeScript/class04/READ04.md)                                          |
 
 
-[Day 1 >>](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)
+[Day 1 >>](./TypeScript/Class01/READ01.md)

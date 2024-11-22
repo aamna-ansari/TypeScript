@@ -3,11 +3,13 @@
 ## TypeScript Arrays
 
 TypeScript has a specific syntax for typing arrays.
+
 - Number
 ```ts
 const arr:number[] = [1,2,3,4,5]
  console.log(arr[2])
  ```
+
 - String
 ```ts
 // string
@@ -15,7 +17,7 @@ const arr:number[] = [1,2,3,4,5]
  console.log(arr[2])
  ```
 
-- Array Using 'any[ ]
+- Array Using any[ ]
 ```ts 
 const mixed:any[] = ['AaMna', 'AnSari', true, 0 , 12.34] 
 ```
@@ -38,6 +40,23 @@ But what happens if i try to set them in the wrong order
 let ourTuple: [number, boolean] = [false, 2]; 
 
 ❌Error: Type 'number' is not assignable to type 'boolean'
+```
+## Interfaces
+In TypeScript, interfaces are used to define the structure of an object. They act as a contract for the shape of the data, ensuring type safety and consistency. Interfaces are especially useful in large projects and for working with objects and classes.
+```ts
+// Define an interface
+interface User {
+  name: string;
+  age: number;
+  isActive: boolean;
+}
+
+// Use the interface
+let user: User = {
+  name: "Alice",
+  age: 25,
+  isActive: true,
+};
 ```
 
 ## Enums
@@ -97,3 +116,5 @@ enum Mixed {
     Yes = "YES"
   }
 ```
+
+[<< Day 3](../Class03/READ03.md) | [Day 05 >>](../)
