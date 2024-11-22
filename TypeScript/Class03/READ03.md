@@ -1,15 +1,14 @@
 
-#  Basic syntax, variables, and type annotations
+#  Basic syntax, Variables, and Type Annotations
 
 [<< Day 2](../Class02/READ02.md) | [Day 04 >>](../Class04/READ04.md)
 
 # Basic Syntax
 ```ts
-    function greet(name: string): string {
-        return `Hello, ${name}!`;
+function greet(name: string): string {
+      return `Hello, ${name}!`;
   }
-
-  console.log(greet("Alice"));
+console.log(greet("Alice"));
 ```
 
 

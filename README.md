@@ -26,7 +26,7 @@
 | 01    |                        [Overview of TypeScript](./TypeScript/Class01/READ01.md)                                             |
 | 02    |                        [TypeScript vs. JavaScript](./TypeScript/Class02/READ02.md)                                          |
 | 03    |                        [Basic syntax, variables, and type annotations](./TypeScript/Class03/)                               |
-| 04    |                        [Arrays, tuples, and enums](./TypeScript/class04/READ04.md)                                          |
+| 04    |                        [Arrays, tuples, and enums](./TypeScript/Class04/READ04.md)                                          |
 
 
 [Day 1 >>](./TypeScript/Class01/READ01.md)
