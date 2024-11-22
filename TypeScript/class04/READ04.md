@@ -117,4 +117,4 @@ enum Mixed {
   }
 ```
 
-[<< Day 3](../Class03/READ03.md) | [Day 05 >>](../)
+[<< Day 3](../Class03/READ03.md) | [Day 05 >>](../Class05/READ05.md)
