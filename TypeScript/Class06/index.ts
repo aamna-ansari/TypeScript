@@ -32,8 +32,15 @@ function multiply(a: number, b: number = 2): number {
    console.log(multiply(5, 3));
 
 //    Rest parameters
+function sum(...numbers: number[]): number {
+    return numbers.reduce((acc, curr) => acc + curr, 0);
+  }
+  console.log(sum(1, 2, 3));   
+  console.log(sum(10, 20, 30, 40)); 
 
-
+//   Why it Works
+// Rest parameters gather all the provided arguments into an array (numbers).
+// The reduce function processes this array to compute the sum.
 
 //  Function Types
 
