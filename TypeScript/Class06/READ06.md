@@ -45,4 +45,16 @@ const greet = (name: string): string => `Hello, ${name}!`;
 
 console.log(greet("AaMna"));
 ```
+## ## Function Types
+```ts
+type MathOperation = (a: number, b: number) => number;
+
+const add: MathOperation = (x, y) => x + y;
+const subtract: MathOperation = (x, y) => x - y;
+
+console.log(add(10, 5));       // Output: 15
+console.log(subtract(10, 5));  // Output: 5
+```
+
+
 [<< Day 05](../Class05/READ05.md) | [Day 07 >>](..)
