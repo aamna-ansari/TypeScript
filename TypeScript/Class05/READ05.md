@@ -1,4 +1,7 @@
 # Union / Intersection Types
+
+[<< Day 04](../Class04/READ04.md) | [Day 06 >>](../Class06/READ06.md)
+
 In TypeScript, union types and intersection types are used to combine multiple types in different ways:
 
 # Union Types | (OR)
@@ -30,3 +33,5 @@ Syntax:
 ```ts
 type A = { name: string } & { age: number };
 ```
+
+[<< Day 04](../Class04/READ04.md) | [Day 06 >>](../Class06/READ06.md)
