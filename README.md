@@ -22,7 +22,7 @@
 
 
 | # Day |                                                           Topics                                                            |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------: |
+|:-----:| :-------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                        [Overview of TypeScript](./TypeScript/Class01/READ01.md)                                             |
 | 02    |                        [TypeScript vs. JavaScript](./TypeScript/Class02/READ02.md)                                          |
 | 03    |                        [Basic syntax, variables, and type annotations](./TypeScript/Class03/)                               |
