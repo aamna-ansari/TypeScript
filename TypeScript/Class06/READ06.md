@@ -9,7 +9,6 @@ Functions are the primary means of passing data around in JavaScript. TypeScript
 function add(a: number, b: number): number {
   return a + b;
 }
-
 console.log(add(5, 3));
 ```
 ## Optional Parameters
@@ -45,7 +44,7 @@ const greet = (name: string): string => `Hello, ${name}!`;
 
 console.log(greet("AaMna"));
 ```
-## ## Function Types
+## Function Types
 ```ts
 type MathOperation = (a: number, b: number) => number;
 
