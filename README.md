@@ -29,6 +29,9 @@
 | 04    |                        [Arrays, Tuples, and Enums](./TypeScript/Class04/READ04.md)                                          |
 | 05    |                        [Union / Intersection Types](./TypeScript/Class05/READ05.md)                                         |
 | 06    |                        [Functions](./TypeScript/Class06/READ06.md)                                                          |
+| 07    |                        []()                                                          |
+| 08    |                        []()                                                          |
+| 09    |                        []()                                                          |
 
 
 [Day 1 >>](./TypeScript/Class01/READ01.md)
