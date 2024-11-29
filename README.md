@@ -23,14 +23,14 @@
 
 | # Day |                                                           Topics                                                            |
 |:-----:| :-------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                        [Overview of TypeScript](./TypeScript/Class01/READ01.md)                                             |
-| 02    |                        [TypeScript vs. JavaScript](./TypeScript/Class02/READ02.md)                                          |
-| 03    |                        [Basic syntax, variables, and type annotations](./TypeScript/Class03/)                               |
-| 04    |                        [Arrays, Tuples, and Enums](./TypeScript/Class04/READ04.md)                                          |
-| 05    |                        [Union / Intersection Types](./TypeScript/Class05/READ05.md)                                         |
-| 06    |                        [Functions](./TypeScript/Class06/READ06.md)                                                          |
+| 01    |                        [Overview of TypeScript](Class01/READ01.md)                                                          |
+| 02    |                        [TypeScript vs. JavaScript](/Class02/READ02.md)                                                      |
+| 03    |                        [Basic syntax, variables, and type annotations](/Class03/READ03.md)                                  |
+| 04    |                        [Arrays, Tuples, and Enums](./Class04/READ04.md)                                                     |
+| 05    |                        [Union / Intersection Types](./Class05/READ05.md)                                                    |
+| 06    |                        [Functions](./Class06/READ06.md)                                                                     |
 | 07    |                        []()                                                          |
-| 08    |                        []()                                                          |
+| 08    |                        [Introduction to interfaces and their usage.](./Class08/READ08.md)                                   |
 | 09    |                        []()                                                          |
 
 
