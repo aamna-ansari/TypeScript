@@ -32,7 +32,7 @@
 | 07    |                        [Rest Parameters and Function Overloading.]()                                                                                                            |
 | 08    |                        [Introduction to interfaces and their usage.](./Class08/READ08.md)                                                                                       |
 | 09    |                        [Understanding classes]()                                 |
-| 10    |                        [Mini-project]()<br/> [Project Link](https://interfaceassignment.netlify.app/)<br/>[Project IDX](https://idx.google.com/)                                |
+| 10    |                        [Mini-project](./Class09/Assignment)<br/>[Project Link](https://interfaceassignment.netlify.app/)<br/>[Project IDX](https://idx.google.com/)             |
 
 
 [Day 1 >>](./TypeScript/Class01/READ01.md)
