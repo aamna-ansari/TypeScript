@@ -1,4 +1,8 @@
 # Assignment
 
-Depoly Link: 
+**Depoly Link:**
 [Click Me 😃](https://interfaceassignment.netlify.app/)
+
+**Preview:**
+
+![](./public/Capture.PNG)
