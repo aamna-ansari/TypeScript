@@ -60,7 +60,7 @@ Compile the TypeScript file into JavaScript using the TypeScript compiler (tsc):
     ```
     ![](../../images/error.gif)
 
-    [Day 02 >>](../Class02/READ02.md)
+    [Day 02 >>](/Class02/READ02.md)
 
 
 
