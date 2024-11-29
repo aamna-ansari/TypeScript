@@ -31,13 +31,13 @@ Visual Studio Code provide IntelliSense and other features like autocompletion, 
         ```cd
         npx tsc -v
         ```
-    ![](../../images/cdInstall.gif)
+    ![](../images/cdInstall.gif)
 
 - **Create a TypeScript File**
 
    Create a `.ts` file, e.g., `index.ts.`
 
-  ![](../../images/index.ts.gif)
+  ![](../images/index.ts.gif)
 
 - **Compile the TypeScript File:**
 Compile the TypeScript file into JavaScript using the TypeScript compiler (tsc):
@@ -52,13 +52,13 @@ Compile the TypeScript file into JavaScript using the TypeScript compiler (tsc):
     ```cd
     node index.js
     ```
-    ![](../../images/run.gif)
+    ![](../images/run.gif)
 
  - **For Error:** 
     ```cd
     tsc -init
     ```
-    ![](../../images/error.gif)
+    ![](../images/error.gif)
 
     [Day 02 >>](/Class02/READ02.md)
 
