@@ -1,7 +1,7 @@
 
 #  Basic syntax, Variables, and Type Annotations
 
-[<< Day 2](../Class02/READ02.md) | [Day 04 >>](../Class04/READ04.md)
+[<< Day 2](/Class02/READ02.md) | [Day 04 >>](/Class04/READ04.md)
 
 # Basic Syntax
 ```ts
@@ -56,4 +56,4 @@ greeting = 42;
 ❌Error: Type 'number' is not assignable to type 'string'
 ```
 
-[<< Day 2](../Class02/READ02.md) | [Day 04 >>](../Class04/READ04.md)
+[<< Day 2](/Class02/READ02.md) | [Day 04 >>](/Class04/READ04.md)

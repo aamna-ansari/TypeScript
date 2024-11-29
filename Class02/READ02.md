@@ -12,4 +12,4 @@
 | **Use Cases**            | Quick prototypes, small projects, or when working with legacy code.                                  | Large-scale, team-based, or long-term projects requiring type safety and maintainability.            |
 
 
-[<< Day 1](../Class01/READ01.md) | [Day 03 >>](../Class03/READ03.md)
+[<< Day 1](/Class01/READ01.md) | [Day 03 >>](/Class03/READ03.md)
