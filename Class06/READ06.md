@@ -1,6 +1,6 @@
 # Functions
 
-[<< Day 05](../Class05/READ05.md) | [Day 07 >>](..)
+[<< Day 05](../Class05/READ05.md) | [Day 07 >>](/Class07/READ07.md)
 
 # Functions
 Functions are the primary means of passing data around in JavaScript. TypeScript allows you to specify the types of both the input and output values of functions.
@@ -70,4 +70,4 @@ console.log(subtract(10, 5));  // Output: 5
 ```
 
 
-[<< Day 05](../Class05/READ05.md) | [Day 07 >>](..)
+[<< Day 05](/Class05/READ05.md) | [Day 07 >>](/Class07/READ07.md)
