@@ -2,7 +2,7 @@
 
 [<< Day 05](../Class05/READ05.md) | [Day 07 >>](..)
 
-## Functions
+# Functions
 Functions are the primary means of passing data around in JavaScript. TypeScript allows you to specify the types of both the input and output values of functions.
 
 ```ts
@@ -11,8 +11,22 @@ function add(a: number, b: number): number {
 }
 console.log(add(5, 3));
 ```
+# Return Type 
+```ts
+function getTime(): number {
+  return new Date().getTime();
+}
+```
+## Void Return Type
+The type `void` can be used to indicate a function doesn't return any value.
+```ts
+function printHello(): void {
+  console.log('Hello!');
+}
+```
+# Parameters
 ## Optional Parameters
-You can make a parameter optional using ?. Optional parameters must come after required ones.
+You can make a parameter optional using `?`. Optional parameters must come after required ones.
 ```ts
 function greet(name: string, age?: number): string {
   return age ? `Hello ${name}, you are ${age} years old.` : `Hello ${name}.`;
