@@ -1,6 +1,6 @@
 # Object-Oriented Programming
 
-[<< Day 08](../Class08/READ08.md) | [Day 10 >>](../Class09/Assignment/README.md)
+[<< Day 10](../Class09/Assignment/README.md) | [Day 12 >>](../Class12/READ12.md)
 
 - Encapsulation
 - Abstraction
@@ -12,5 +12,5 @@
 # Inheritance
 Inheritance allows one class to inherit the properties and methods of another class.
 
-[<< Day 08](../Class08/READ08.md) | [Day 10 >>](../Class09/Assignment/README.md)
+[<< Day 10](../Class09/Assignment/README.md) | [Day 12 >>](../Class12/READ12.md)
 

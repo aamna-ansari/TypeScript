@@ -1,6 +1,6 @@
 # Introduction to interfaces and their usage
 
-[<< Day 07](../) | [Day 09 >>](../Class09/Class_09)
+[<< Day 07](../Class07/READ07.md) | [Day 09 >>](../Class09/Class_09)
 ## Interfaces
 
 An interface is a way to define a blueprint or contract for the structure of an object in TypeScript. It specifies the properties and types that an object should have but doesn’t provide implementation. Think of it as a "guide" for how an object should look.
@@ -63,4 +63,4 @@ const user: User = {
 console.log(greetUser(user)); // Output: Hello, AaMna!
 ```
 
-[<< Day 07](../) | [Day 09 >>](../Class09/Class_09)
+[<< Day 07](../Class07/READ07.md) | [Day 09 >>](../Class09/Class_09)
