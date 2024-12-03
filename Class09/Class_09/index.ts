@@ -41,7 +41,7 @@ class Person {
   
   const emp = new Employee("John", 50000, "Engineering");
   console.log(emp.name); // Accessible
-  console.log(emp.salary); // Error: Property 'salary' is private and only accessible within class 'Employee'.
+// console.log(emp.salary); // Error: Property 'salary' is private and only accessible within class 'Employee'.
   
 
   

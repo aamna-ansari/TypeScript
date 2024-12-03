@@ -31,7 +31,7 @@
 | 06    |                        [Functions](./Class06/READ06.md)                                                                                                                         |
 | 07    |                        [Rest Parameters and Function Overloading.](/Class07/READ07.md)                                                                                          |
 | 08    |                        [Introduction to interfaces and their usage.](/Class08/READ08.md)                                                                                        |
-| 09    |                        [Understanding classes]()                                
+| 09    |                        [Understanding classes](/Class09/Class_09/READ09.md)                                                                                                     |                               
 | 10    |                        [Mini-project](Class09/Assignment)<br/>[Project Link](https://interfaceassignment.netlify.app/)<br/>[Project IDX](https://idx.google.com/)               |
 | 11    |                        [(OOP) , Inheritance and Extending classes](./Class11/READ11.md)                                                                                         |
 

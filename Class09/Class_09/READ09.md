@@ -1,4 +1,6 @@
 # Classes and Objects
+[<< Day 08](/Class08/READ08.md) | [Day 10 >>](/Class09/Assignment/README.md)
+
 A class in TypeScript is a blueprint for creating objects with properties and methods.
 
 ## Defining a Class:
@@ -32,3 +34,8 @@ TypeScript provides access modifiers (`public`, `private`, `protected`) to contr
 - **private**: Members are accessible only within the class.
 
 - **protected**: Members are accessible within the class and its subclasses.
+
+
+ [Access Modifiers Example](./index.ts)
+
+ [<< Day 08](/Class08/READ08.md) | [Day 10 >>](/Class09/Assignment/README.md)
