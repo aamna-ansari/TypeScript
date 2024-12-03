@@ -1,6 +1,6 @@
 # Arrays
 
-[<< Day 11](../Class11/READ11.md) | [Day 13 >>]()
+[<< Day 11](../Class11/READ11.md) | [Day 13 >>](../Class13/READ13.md)
 
 An array is a data structure that stores multiple values in a single variable, all of which must be of the same type. Arrays allow you to group and manipulate a collection of data more efficiently.
 
@@ -60,4 +60,4 @@ let people: Person[] = [
 ];  
 ```
 
-[<< Day 11](../Class11/READ11.md) | [Day 13 >>]()
+[<< Day 11](../Class11/READ11.md) | [Day 13 >>](../Class13/READ13.md)
