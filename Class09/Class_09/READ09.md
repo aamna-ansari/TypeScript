@@ -23,3 +23,12 @@ class Person {
 const person1 = new Person("AaMna", 'AnSari');
 person1.greet(); 
 ```
+
+# Access Modifiers
+TypeScript provides access modifiers (`public`, `private`, `protected`) to control the visibility and access to class members (properties and methods).
+
+- **public**: Default modifier. Members are accessible anywhere.
+
+- **private**: Members are accessible only within the class.
+
+- **protected**: Members are accessible within the class and its subclasses.
