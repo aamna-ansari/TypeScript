@@ -37,4 +37,4 @@
 | 12    |                        [Arrays](./Class12/READ12.md)                                                                                                                            |
 
 
-[Day 1 >>](./TypeScript/Class01/READ01.md)
+[Day 1 >>](./Class01/READ01.md)
