@@ -14,8 +14,6 @@
   </a>
   </a>
 
-<small> November, 2024</small></sub>
-
 </div>
 
 [Day 1 >>](./TypeScript/Class01/READ01.md)
@@ -35,6 +33,8 @@
 | 10    |                        [Mini-project](Class09/Assignment)<br/>[Project Link](https://interfaceassignment.netlify.app/)<br/>[Project IDX](https://idx.google.com/)               |
 | 11    |                        [(OOP) , Inheritance and Extending classes](./Class11/READ11.md)                                                                                         |
 | 12    |                        [Arrays](./Class12/READ12.md)                                                                                                                            |
+| 13    |                        [Tuples](./Class04/READ04.md)                                                                                                                            |
+| 14    |                        [Enums](./Class04/READ04.md)                                                                                                                             |
 
 
 [Day 1 >>](./Class01/READ01.md)
