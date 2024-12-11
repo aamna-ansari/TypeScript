@@ -27,7 +27,7 @@
 | 04    |                        [Arrays, Tuples, and Enums](Class04/READ04.md)                                                                                                           |
 | 05    |                        [Union / Intersection Types](Class05/READ05.md)                                                                                                          |
 | 06    |                        [Functions](./Class06/READ06.md)                                                                                                                         |
-| 07    |                        [Rest & Spread Parameters and Function Overloading.](/Class07/READ07.md)                                                                                          |
+| 07    |                        [Rest & Spread Parameters and Function Overloading.](/Class07/READ07.md)                                                                                 |
 | 08    |                        [Introduction to interfaces and their usage.](/Class08/READ08.md)                                                                                        |
 | 09    |                        [Understanding classes](/Class09/Class_09/READ09.md)                                                                                                     |                               
 | 10    |                        [Mini-project](Class09/Assignment)<br/>[Project Link](https://interfaceassignment.netlify.app/)<br/>[Project IDX](https://idx.google.com/)               |
